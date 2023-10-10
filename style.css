@@ -1,0 +1,93 @@
+*{
+    font-family: fantasy;
+    background-color: blanchedalmond;
+}
+nav{
+    margin-left: 60%;
+}
+
+nav a {
+        font-size: 31px;
+        text-decoration: none;
+        margin-right: 29px;
+        color: tomato;
+        font-weight: bold;
+}
+
+nav a:hover{
+    color: aquamarine;
+    text-decoration: underline;
+}
+
+h2{
+    color: pink;
+    text-decoration: underline;
+    font-size: 36px;
+    margin-left: 43px;
+}
+
+
+img{
+    width: 200px;
+    height: 270px;
+    border-radius: 36px;
+    border: 19px solid green;
+}
+
+#home{
+    text-align: center;
+}
+
+p{
+    display: inline-block;
+    width: 37%;
+    margin-left: 148px;
+    line-height: 42px;
+    text-align: justify;
+}
+
+table{
+    
+    width: 40%;
+    margin: auto;
+}
+table,td,th{
+    border: 1px solid slateblue;
+    border-collapse: collapse;
+}
+
+form{
+    margin: auto;
+    width: 20%;
+}
+
+input{
+    margin-bottom: 10px;
+    margin-left: 44px;
+}
+
+#mohamed{
+    margin-left: 19px;
+}
+
+button{
+    font-size: 25px;
+    color: aqua;
+    background-color: black;
+    border: 6px solid aqua;
+    /* padding: 10px; */
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+button:hover{
+    color: black;
+    background-color: aqua;
+    border: 6px solid black;
+}
+
+footer{
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+}
